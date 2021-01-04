@@ -1,2 +1,2 @@
-# Suliprojekt
+# Sulioldal
 ez egy projekt
